@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     width="100%" height="100%"
+     style="display:block;position:fixed;inset:0;width:100vw;height:100vh;height:100dvh;overflow:hidden;background:#2e5cb3">
+  <title>Yo-Kai Watch Wibble Wobble</title>
+  <defs>
+    <pattern id="blue-pattern" width="56" height="56" patternUnits="userSpaceOnUse">
+      <rect width="56" height="56" fill="#2e5cb3"/>
+      <path d="M3 4h18v13h17V4h15M3 29h11V17h12v24H10v12h39V39H36v14M3 4v13m50-13v13"
+            fill="none" stroke="#3b6bc3" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#blue-pattern)"/>
+  <metadata id="embedded-html-base64"><![CDATA[PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImphIj4KPGhlYWQ+CiAgPGJhc2UgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3dpa2l3aWtpd2lraXBlZGlhYS9Zby1LYWktV2F0Y2gtV2liYmxlLVdvYmJsZUBtYWluLyIgLz4KICA8bWV0YSBjaGFyc2V0PSJVVEYtOCIgLz4KICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAsIHVzZXItc2NhbGFibGU9bm8sIHZpZXdwb3J0LWZpdD1jb3ZlciIgLz4KICA8dGl0bGU+WVdQIOOBt+OBq+ODkeOCuuODqyAo57mL44GO5raI44GXKTwvdGl0bGU+CiAgPCEtLQogICAgWW91VHViZSBQbGF5YWJsZXMgU0RL44CCKirlv4XjgZogaGVhZCDjgavnva7jgY3jgIHku5bjga7jganjga4gc2NyaXB0IOOCiOOCiuOCguWFiCoq44Gr44GZ44KLICjlhazlvI/opoHku7Yp44CCCiAgICAgIGh0dHBzOi8vZGV2ZWxvcGVycy5nb29nbGUuY29tL3lvdXR1YmUvZ2FtaW5nL3BsYXlhYmxlcy9yZWZlcmVuY2UvZ2V0dGluZ19zdGFydGVkCiAgICDimIXimIVib2R5IOOBp+OBr+OBquOBjyBoZWFkIOOBq+e9ruOBj+OBk+OBqOOAguODk+ODq+ODieOBmeOCi+OBqCBWaXRlIOOBjAogICAgICAqKuODkOODs+ODieODqyBzY3JpcHQodHlwZT1tb2R1bGUpIOOCkiBoZWFkIOOBruacq+WwvuOBuOaMgeOBoeS4iuOBkuOCiyoq44Gu44Gn44CB44GT44GuIHRhZyDjgpIgYm9keSDjgavnva7jgY/jgagKICAgICAgZGlzdC9pbmRleC5odG1sIOOBp+OBryoq44Ky44O844Og44Kz44O844OJ44GMIDEg55Wq55uu44GuIHNjcmlwdCDjgavjgarjgoogU0RLIOOBjOW+jOOCjeOBuOWbnuOCiyoq44CCCiAgICAgIGRldiDjga8gaW5kZXguaHRtbCDjgpLjgZ3jga7jgb7jgb7phY3jgovjgZ/jgoEgYm9keSDjgafjgoLmraPjgZfjgYTpoIbluo/jgavopovjgYjjgabjgZfjgb7jgYTjgIEqKuawl+S7mOOBkeOBquOBhCoq44CCCiAgICAgIFBvcnRhbCDjga7jgqLjg4Pjg5fjg63jg7zjg4nmpJzmn7vjga8KICAgICAgIkVudHJ5IHBvaW50IEhUTUwgZG9lcyBub3QgY29udGFpbiBTREsgYXMgZmlyc3Qgc2NyaXB0IiDjgaflvL7jgY8o5a6f6Zqb44Gr5by+44GL44KM44GfKeOAggogICAg4piF44Kz44Oh44Oz44OI44Ki44Km44OI44GX44Gm44Gv44GE44GR44Gq44GE44CCU0RLIOOBjOeEoeOBhOOBqCB5dGdhbWUuc3lzdGVtLmdldExhbmd1YWdlKCkg44GM5L2/44GI44Ga44CBCiAgICAgICoq6KiA6Kqe5Yik5a6a44GM6LW35YuV44Gb44Ga44Gr5pei5a6aKOaXpeacrOiqninjgaflm7rlrprjgZXjgozjgosqKu+8neOAjOiLseiqnuWvvuW/nOOBjOW/hemgiOOAjeOBqOOBhOOBhuWvqeafu+imgeS7tuOCkgogICAgICDmuoDjgZ/jgZvjgarjgY/jgarjgoso5Lul5YmN44GT44GT44KS44Kz44Oh44Oz44OI44Gr44GX44Gm44GE44Gf44Gf44KB44CB5YWl56i/44OT44Or44OJ44GM5pel5pys6Kqe44GX44GL5Ye644Gb44Gq44GL44Gj44GfKeOAggogICAg6aCG5bqP44Go5pyJ5Yq55oCn44GvIHNjcmlwdHMvc2RrU2NyaXB0T3JkZXJUZXN0Lm1qcyAobnBtIHRlc3QpIOOBqAogICAgICBwYWNrLWRpc3QubWpzIC8gcGFjay1zdWJtaXNzaW9uLm1qcyDjgYwqKuODk+ODq+ODieW+jOOBriBodG1sKiog44Gn5qmf5qKw44OB44Kn44OD44Kv44GZ44KL44CCCiAgICDjg63jg7zjgqvjg6soZGV2L3ByZXZpZXcv6YWN5biD44Kt44OD44OIKeOBp+OBr+WPluW+l+OBq+WkseaVl+OBl+OBpiB3aW5kb3cueXRnYW1lIOOBjOeUn+OBiOOBquOBhOOBoOOBkeOBp+OAgQogICAgICB5b3V0dWJlUGxheWFibGVzLmpzIOOBjOWuieWFqOOBqyBuby1vcCDjgbjlgJLjgozjgoso6LW35YuV44Gv5aao44GS44Gq44GEKeOAggogIC0tPgogIDxzY3JpcHQgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9nYW1lX2FwaS92MSIgbm9uY2U9InpXcDJRN3pTbzIxVWczUU1CMjdFaXciPjwvc2NyaXB0PgogIDxzdHlsZT4KICAgIC8qIOi1t+WLleebtOW+jOOBr+OCv+OCpOODiOODq+OBriAuZGF0IOOBjOWxiuOBj+OBvuOBp+S9leOCguaPj+OBi+OCjOOBquOBhOOBruOBp+OAgeOBk+OBruiDjOaZr+OBjOOBneOBruOBvuOBvgogICAgICAg44CM6LW35YuV5Lit44Gu55S76Z2i44CN44Gr44Gq44KL44CCUGl4aUpTIOOBriBjbGVhciDoibIoYm9vdHN0cmFwIOOBriBiYWNrZ3JvdW5kKeOBqOWQjOiJsuOBq+OBmeOCi+OAgiAqLwogICAgaHRtbCwgYm9keSB7IG1hcmdpbjogMDsgcGFkZGluZzogMDsgaGVpZ2h0OiAxMDAlOyBiYWNrZ3JvdW5kOiAjMDAwOyBvdmVyZmxvdzogaGlkZGVuOyB9CiAgICAvKiDimIVgaW5zZXQ6IDBgIOOBr+abuOOBi+OBquOBhCgqKkNocm9tZSA4NyoqIOOBp+i/veWKoOOAguOCteODneODvOODiOS4i+mZkOOBriBYWjMgPSBDaHJvbWUgODMg44Gn44GvCiAgICAgICDlrqPoqIDjgZTjgajpu5njgaPjgabnhKHoppbjgZXjgozjgosp44CC44GT44GT44GvIGByZXNpemVUbzogd2luZG93YCDjgacgY2FudmFzIOiHqui6q+OBjOeUu+mdouOCteOCpOOCuuOBqwogICAgICAg44Gq44KL44Gf44KB54Sh6KaW44GV44KM44Gm44KC5a6f5a6z44Gv5Ye644Gm44GE44Gq44GL44Gj44Gf44GM44CBKirmsJfku5jjgZHjgarjgYTlt64qKuOBquOBruOBp+WAi+WIpeaMh+WumuOBq+OBl+OBpuOBiuOBj+OAgiAqLwogICAgI2FwcCB7IHBvc2l0aW9uOiBmaXhlZDsgdG9wOiAwOyByaWdodDogMDsgYm90dG9tOiAwOyBsZWZ0OiAwOyB9CiAgICAjaHVkIHsKICAgICAgcG9zaXRpb246IGZpeGVkOyBsZWZ0OiA4cHg7IHRvcDogOHB4OyB6LWluZGV4OiAxMDsKICAgICAgZm9udC1mYW1pbHk6IHVpLW1vbm9zcGFjZSwgTWVubG8sIG1vbm9zcGFjZTsgZm9udC1zaXplOiAxMnB4OwogICAgICBjb2xvcjogI2Q4ZTBlZTsgYmFja2dyb3VuZDogcmdiYSgwLDAsMCwuNDUpOyBwYWRkaW5nOiA2cHggOHB4OyBib3JkZXItcmFkaXVzOiA2cHg7CiAgICAgIHdoaXRlLXNwYWNlOiBwcmU7IHBvaW50ZXItZXZlbnRzOiBub25lOwogICAgfQogICAgLyog5Lit6Lqr44GM56m644Gu44Go44GN44Gv5p6g44GU44Go5raI44GZ44CCcGFkZGluZyDjgajog4zmma/jgYzjgYLjgovjga7jgafjgIHnqbrmloflrZfjgpLlhaXjgozjgZ/jgaDjgZHjgaDjgagKICAgICAgIOW3puS4iuOBq+Wwj+OBleOBqum7kuOBhOeuseOBjOaui+OCi++8iOOCt+ODvOODs+mBt+enu+OBpyBTY2VuZU1hbmFnZXIg44GMIHRleHRDb250ZW50IOOCkuepuuOBq+OBmeOCi++8ieOAggogICAgICAgOmVtcHR5IOOBquOBruOBp+OAgW1haW4uanMg44GM6Ie05ZG944Ko44Op44O844KS5pu444GN6L6844KT44Gg44Go44GN44Gv5b6T5p2l44Gp44GK44KK6KGo56S644GV44KM44KL44CCICovCiAgICAjaHVkOmVtcHR5IHsgZGlzcGxheTogbm9uZTsgfQogIDwvc3R5bGU+CiAgPHNjcmlwdCB0eXBlPSJtb2R1bGUiIGNyb3Nzb3JpZ2luIHNyYz0iLi9hc3NldHMvaW5kZXgtQ01naVhnRWQuanMiIG5vbmNlPSJ6V3AyUTd6U28yMVVnM1FNQjI3RWl3Ij48L3NjcmlwdD4KICA8bGluayByZWw9Im1vZHVsZXByZWxvYWQiIGNyb3Nzb3JpZ2luIGhyZWY9Ii4vYXNzZXRzL3ByZWxvYWQtaGVscGVyLWtOYWV5NnV2LmpzIj4KICA8bGluayByZWw9Im1vZHVsZXByZWxvYWQiIGNyb3Nzb3JpZ2luIGhyZWY9Ii4vYXNzZXRzL2NodW5rLVFUbmZMd0V2LmpzIj4KICA8bGluayByZWw9Im1vZHVsZXByZWxvYWQiIGNyb3Nzb3JpZ2luIGhyZWY9Ii4vYXNzZXRzL0dlb21ldHJ5LURIZzRwWXlILmpzIj4KICA8bGluayByZWw9Im1vZHVsZXByZWxvYWQiIGNyb3Nzb3JpZ2luIGhyZWY9Ii4vYXNzZXRzL1JlbmRlclRhcmdldFN5c3RlbS1EQUx6WFktTi5qcyI+CiAgPGxpbmsgcmVsPSJtb2R1bGVwcmVsb2FkIiBjcm9zc29yaWdpbiBocmVmPSIuL2Fzc2V0cy9nZXRUZXh0dXJlQmF0Y2hCaW5kR3JvdXAtQ0RQcDN0ZU4uanMiPgogIDxsaW5rIHJlbD0ibW9kdWxlcHJlbG9hZCIgY3Jvc3NvcmlnaW4gaHJlZj0iLi9hc3NldHMvY2FudmFzVXRpbHMtdmJUa3V1TlEuanMiPgogIDxsaW5rIHJlbD0ibW9kdWxlcHJlbG9hZCIgY3Jvc3NvcmlnaW4gaHJlZj0iLi9hc3NldHMvQ2FudmFzUmVuZGVyZXItQjFOcXcyZXcuanMiPgogIDxsaW5rIHJlbD0ibW9kdWxlcHJlbG9hZCIgY3Jvc3NvcmlnaW4gaHJlZj0iLi9hc3NldHMvQnVmZmVyUmVzb3VyY2UtQlQzRk1hN1IuanMiPgogIDxsaW5rIHJlbD0ibW9kdWxlcHJlbG9hZCIgY3Jvc3NvcmlnaW4gaHJlZj0iLi9hc3NldHMvQ2FudmFzUG9vbC1ya2JFSjJqNi5qcyI+CjwvaGVhZD4KPGJvZHk+CiAgPGRpdiBpZD0iYXBwIj48L2Rpdj4KICA8ZGl2IGlkPSJodWQiPmxvYWRpbmfigKY8L2Rpdj4KCjwvYm9keT4KPC9odG1sPgo=]]></metadata>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <xhtml:div id="viewport" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      <xhtml:style><![CDATA[
+        html, body { margin:0; width:100%; height:100%; overflow:hidden; background:transparent; }
+        #viewport { position:fixed; inset:0; width:100vw; height:100vh; height:100dvh; overflow:hidden; }
+        .game-stage { position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+          width:min(100vw,56.338vh); height:min(100vh,177.5vw); overflow:hidden;
+          border-radius:12px; box-shadow:0 8px 32px rgba(0,0,0,.35); background:#000; }
+        @supports (height:100dvh) { .game-stage { width:min(100vw,56.338dvh); height:min(100dvh,177.5vw); } }
+        #game-frame { display:block; width:100%; height:100%; border:0; background:#000; }
+        #fullscreen-toggle { position:fixed; z-index:20; top:10px; right:10px; width:44px; height:44px;
+          border:1px solid rgba(255,255,255,.6); border-radius:10px; background:rgba(8,24,60,.72);
+          color:white; font:700 22px/1 system-ui,sans-serif; cursor:pointer; touch-action:manipulation; }
+        #fullscreen-toggle:focus-visible { outline:3px solid white; outline-offset:2px; }
+      ]]></xhtml:style>
+      <xhtml:div class="game-stage">
+        <xhtml:iframe id="game-frame" title="Yo-Kai Watch Wibble Wobble" allow="autoplay; fullscreen"
+          style="display:block;width:100%;height:100%;border:0;background:#000"></xhtml:iframe>
+      </xhtml:div>
+      <xhtml:button id="fullscreen-toggle" type="button" aria-label="Enter fullscreen" title="Enter fullscreen">⛶</xhtml:button>
+    </xhtml:div>
+  </foreignObject>
+  <script type="application/ecmascript"><![CDATA[
+    (() => {
+      const payload = document.getElementById("embedded-html-base64").textContent.trim();
+      const binary = atob(payload);
+      const bytes = Uint8Array.from(binary, character => character.charCodeAt(0));
+      const html = new TextDecoder("utf-8").decode(bytes);
+      document.getElementById("game-frame").srcdoc = html;
+
+      const button = document.getElementById("fullscreen-toggle");
+      const syncButton = () => {
+        const active = document.fullscreenElement === document.documentElement;
+        button.setAttribute("aria-label", active ? "Exit fullscreen" : "Enter fullscreen");
+        button.title = active ? "Exit fullscreen (Esc)" : "Enter fullscreen";
+      };
+      button.addEventListener("click", async () => {
+        try {
+          if (document.fullscreenElement) await document.exitFullscreen();
+          else await document.documentElement.requestFullscreen();
+        } catch (error) {
+          button.title = "Fullscreen is controlled by your browser";
+        }
+      });
+      document.addEventListener("fullscreenchange", syncButton);
+    })();
+  ]]></script>
+</svg>
